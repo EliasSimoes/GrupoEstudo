@@ -26,10 +26,23 @@ body{
     box-shadow: 2px 2px 3px rgba(0, 0, 0, .3);
 }
 
+.nav{
+    margin-bottom: 5em;
+}
 .menu{
-
+    list-style: none;
+    float: left;
 }
 
 .menu li{
-    
+    position: relative;
+    float: left;
+    border-bottom: 1px solid #c4c4c4;
+    padding: 1em;
+}
+
+.menu li:last-child {
+    position: absolute;
+    right: 0;
+    border:none;
 }
