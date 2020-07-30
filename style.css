@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    color: black;
+    padding: 1em;
+    font-family: monospace;
+    font-size: 1.5em;
+    background: #f3f3f3;
+}
+
+#div_1, #div_2{
+    color: #c4c4c4;
+}
+
+#div_1 h2, #div_2 h2{
+    color: #a3a3a3;
+}
+
+.container{
+    margin-bottom: 1em;
+    padding: 1em;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, .3);
+}
+
+.menu{
+
+}
+
+.menu li{
+    
+}
